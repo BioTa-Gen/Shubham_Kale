@@ -1,0 +1,162 @@
+{
+    "Name": {
+        "english": "Shubham Kale",
+        "marathi": "शुभम काळे"
+    },
+    "JobProfile": {
+        "english": "Business Man / Engineer",
+        "marathi": "उद्योगपती / अभियंता"
+    },
+    "Facebook": "https://www.facebook.com/profile.php?id=100004890030872",
+    "Instagram": "https://www.instagram.com/devakale777.sk",
+    "Email": "devakale04@gmail.com",
+    "CompanyLink": "",
+    "CompanyExperience": null,
+    "CompanyName": {
+        "english": "Deva Interprises/ Bond Agency",
+        "marathi": "देवा इंटरप्राइजेज / बाँड एजन्सी"
+    },
+    "Hobby": {
+        "english": "Acting,Playing Chess,Travelling ",
+        "marathi": "अभिनय, बुद्धीबळ खेळणे, प्रवास करणे"
+    },
+    "PersonalInformation": {
+        "FullName": {
+            "english": "Shubham Madhukar Kale",
+            "marathi": "शुभम मधुकर काळे"
+        },
+        "DateOfBirth": {
+            "english": "06/05/1994",
+            "marathi": "०६/०५/१९९४"
+        },
+        "BirthPlace": {
+            "english": "Nander / Paithan",
+            "marathi": "नांदर / पैठण"
+        },
+        "BirthTime": {
+            "english": "3:00 PM",
+            "marathi": "3:00 दुपारी"
+        },
+        "Color": {
+            "english": "Blonde",
+            "marathi": "सावळा"
+        },
+        "Height": {
+            "english": "5 feet 8 inches",
+            "marathi": "5 फूट 8 इंच"
+        },
+        "BloodGroup": {
+            "english": "B +ve",
+            "marathi": "B +ve"
+        },
+        "Gotra": {
+            "english": null,
+            "marathi": null
+        },
+        "Gan": {
+            "english": null,
+            "marathi": null
+        },
+        "Devak": {
+            "english": null,
+            "marathi": null
+        },
+        "Ras": {
+            "english": "Aquarius",
+            "marathi": "कुंभ"
+        },
+        "Kuldaivat": {
+            "english": "Renuka Mata",
+            "marathi": "रेणुका माता"
+        },
+        "RasName": {
+            "english": null,
+            "marathi": null
+        },
+        "Caste": {
+            "english": "Hindu-Maratha",
+            "marathi": "हिंदू-मराठा"
+        }
+    },
+    "Qualification": {
+        "Education": {
+            "english": "Civil Engineering",
+            "marathi": "सिव्हिल अभियांत्रिकी"
+        },
+        "Job": {
+            "english": "Business",
+            "marathi": "व्यवसाय"
+        },
+        "Salary": {
+            "english": null,
+            "marathi": null
+        }
+    },
+    "FamilyInformation": {
+        "GrandfatherName": {
+            "english": "Martandrao Kale",
+            "marathi": "मार्तंडराव काळे"
+        },
+        "GrandmotherName": {
+            "english": "Muktai Kale",
+            "marathi": "मुक्ताई काळे"
+        },
+        "FatherName": {
+            "english": "Madhukar Martandrao Kale",
+            "marathi": "मधुकर मार्तंडराव काळे"
+        },
+        "MotherName": {
+            "english": "Lata Madhukar Kale",
+            "marathi": "लता मधुकर काळे"
+        },
+        "SisterName": {
+            "english": "Rupali Pratap Jawale",
+            "marathi": "रुपाली प्रताप जावळे"
+        },
+        "BrotherName": {
+            "english": null,
+            "marathi": null
+        },
+        "Uncle": {
+            "english": "Ashok Kale",
+            "marathi": "अशोक काळे"
+        },
+        "Mama": {
+            "english": "Raosaheb Tathe",
+            "marathi": "रावसाहेब ताठे"
+        },
+        "Aatya": {
+            "english": "Gaya Baban Watari",
+            "marathi": "गया बबन वातारी"
+        },
+        "Mavshi": {
+            "english": null,
+            "marathi": null
+        },
+        "Relatives": {
+            "english": null,
+            "marathi": null
+        }
+    },
+    "ContactMe": {
+        "EmailId": {
+            "english": "devakale04@gmail.com",
+            "marathi": "devakale04@gmail.com"
+        },
+        "MobileNo": {
+            "english": "8605474591",
+            "marathi": "८६०५४७४५९१"
+        }
+    },
+    "Photos": {
+        "ProfilePhotoName": "assets/Profile.jpg",
+        "GalleryPhoto": {
+            "Photo1": "assets/G(1).jpg",
+            "Photo2": "assets/G(2).jpg",
+            "Photo3": "assets/G(3).jpg",
+            "Photo4": "assets/G(4).jpg",
+            "Photo5": "assets/G(5).jpg",
+            "Photo6": "assets/G(6).jpg"
+        }
+    }
+}
